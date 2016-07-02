@@ -1,2 +1,0 @@
-# Haiku
-App Haiku 
