@@ -1,0 +1,32 @@
+$ionicons-font-path: "../lib/ionic/fonts" !default;
+@import "../www/lib/ionic/scss";
+.esp1 {
+	margin-top: 30%;
+	margin-bottom: 10%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.esp2 {
+	margin-bottom: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.esp3 {
+	margin-bottom: 30%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.esp4 {
+	margin-top: 15%;
+	margin-bottom: 15%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+ion-view,.pane,.view {
+	background-color: #E1C99D;
+}
+
