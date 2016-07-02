@@ -9725,6 +9725,8 @@ a.button {
   margin-left: 15%;
   margin-right: 15%;
   background-color: rgba(245, 222, 179, 0);
+  border-width: 5px;
+  border-color: black;
 
   
 }
@@ -9734,7 +9736,8 @@ a.button {
   margin-left: 5%;
   margin-right: 5%;
   background-color: rgba(245, 222, 179, 0);
-
+  border-width: 5px;
+  border-color: black;
   
 }
 
@@ -9743,7 +9746,8 @@ a.button {
   margin-left: 15%;
   margin-right: 15%;
   background-color: rgba(245, 222, 179, 0);
-
+  border-width: 5px;
+  border-color: black;
   
 }
 
